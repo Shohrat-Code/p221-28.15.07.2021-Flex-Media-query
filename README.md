@@ -16,7 +16,14 @@ https://www.w3schools.com/css/css_rwd_intro.asp  - _**Bu bölməyə(CSS Responsi
 
 
 ##### 2. Aşağıdakı tapşırıqları həll edin:
-i. Responsive gridinizi qurun<br />
-ii. Linkdə şəkildə göstərişmiş hissəni responsive kodlayın http://themesindustry.com/html/trax-2020/services.html<br />
+i. Responsive gridinizi qurun;<br />
+ii. Linkdə şəkildə göstərişmiş hissəni responsive kodlayın http://themesindustry.com/html/trax-2020/services.html;<br />
+![task image](https://github.com/Shohrat-Code/p221-28.15.07.2021-Flex-Media-query/blob/4b8ca38de54d940780596a4a08cb2d0e8c900915/1.PNG)<br />
 
-iii. 
+iii. Bacaran şəkildə göstərdiyim section-ı da işləsin;
+![task image](https://github.com/Shohrat-Code/p221-28.15.07.2021-Flex-Media-query/blob/4b8ca38de54d940780596a4a08cb2d0e8c900915/2.PNG)<br />
+
+
+
+
+##### Note. Əlavə işləmək istəyənlər Barneti davam edə bilər.
